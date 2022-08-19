@@ -1,9 +1,22 @@
-#section-1 {
-    background: greenyellow;
-}
+
+
 h1 {
     color: palevioletred;
     font-family: 'Playfair Display', serif;
+    background: lightblue;
 }
-.title-22 { color:brown;
+
+.title-22 { 
+    color:brown;
+    font-family: Cambria;
+    background: yellow;
+}
+
+#section-2 {
+    background: greenyellow;
+}
+h1 { 
+    color: blue;
+    font-family: Verdana, sans-serif;
+    background: pink;
 }
