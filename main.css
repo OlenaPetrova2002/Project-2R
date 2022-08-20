@@ -10,10 +10,15 @@ h1 {
     background: lightblue;
 }
 
+
 .title-22 { 
     color:brown;
-    font-family: Cambria;
-    background: yellow;
+    font-family: Cambria; 
+    background: yellow; 
+}
+
+body {
+    font-family: 'DynaPuff', inherit;
 }
 
 h1 { 
@@ -21,11 +26,6 @@ h1 {
     font-family: Verdana, sans-serif;
     background: pink;
 }
-
-body {
-    font-family: 'DynaPuff', cursive;
-}
-
 /*.title-22, h1 {
     color: grey;
 }/
