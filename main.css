@@ -1,8 +1,15 @@
+
+#part-2 {
+    background: rgb(118, 228, 118);
+    color: rgb(241, 18, 18);
+}
+
 h1 {
     color: palevioletred;
     font-family: 'Playfair Display', serif;
     background: lightblue;
 }
+
 .title-22 { 
     color:brown;
     font-family: Cambria;
@@ -14,11 +21,11 @@ h1 {
     font-family: Verdana, sans-serif;
     background: pink;
 }
-.title-22, h1 {
-    color: grey;
+
+body {
+    font-family: 'DynaPuff', cursive;
 }
 
-#section-2 {
-    background: greenyellow;
-    color: rgb(241, 18, 18);
-}
+/*.title-22, h1 {
+    color: grey;
+}/
