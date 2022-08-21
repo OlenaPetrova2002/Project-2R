@@ -1,25 +1,26 @@
-
-#part-2 {
-    background: rgb(118, 228, 118);
-    color: rgb(173, 10, 119);
-}
-
 body {
-    font-size: 1 px;
+    font-size: 15px;
 }
 
 h1 { 
     color: blue;
     font-family: 'Times New Roman', sans-serif;
-    font-size: 2 px;
     background: pink;
 }
 
-section > h1 {
+#part-2 {
+    background: rgb(118, 228, 118);
+    color: rgb(173, 10, 119);
+    margin: 10px;
+}
+
+h1 > p {
     color: red;
+    border: 4px dashed rgb(104, 3, 54);
+    background-color: rgb(231, 180, 10);
+    padding: 1px 10px 20px 5px;
 }
 
 /*.title-22 p {
     color: rgb(7, 97, 55);
 }/
-
