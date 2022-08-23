@@ -1,5 +1,6 @@
 body {
     font-size: 15px;
+    width: 200px;
 }
 
 h1 { 
@@ -9,16 +10,19 @@ h1 {
 }
 
 #part-2 {
-    background: rgb(118, 228, 118);
-    color: rgb(173, 10, 119);
-    margin: 10px;
+    background: rgb(206, 145, 53);
+    color: rgb(8, 94, 36);
+    margin: 5px;
+    border: medium dashed green;
+    padding: 10px;
+    width: 100px;
+    height: 200px;
+    box-sizing:border-box;
 }
 
 h1 > p {
     color: red;
-    border: 4px dashed rgb(104, 3, 54);
-    background-color: rgb(231, 180, 10);
-    padding: 1px 10px 20px 5px;
+    background-color: rgb(206, 218, 42);
 }
 
 /*.title-22 p {
