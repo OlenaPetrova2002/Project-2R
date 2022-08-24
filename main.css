@@ -9,7 +9,7 @@ h1 {
 }
 
 #part-2 {
-    background: rgb(206, 145, 53);
+    background: rgb(241, 161, 95);
     color: rgb(8, 94, 36);
     margin: 5px;
     border: medium dashed green;
@@ -32,7 +32,6 @@ h1 > p {
 
 .grand-nav__item {
     display: inline-block;
-
 }
 
 .grand-header > div {
