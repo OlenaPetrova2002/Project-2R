@@ -32,20 +32,36 @@ h1 > p {
 
 .grand-nav__item {
     display: inline-block;
+    margin-left: 5px;
 }
 
 .grand-header > div {
     display: inline-block;
+    vertical-align: middle;
+
 }
 
+.grand-brand {
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;    
+
+}
 .grand-nav {
     display: inline-block;
     text-align: right;
-    width: calc(100% - 60px);
+    width: calc(100% - 80px);
+
 }
 
 .grand-nav__items {
     margin: 0;
     padding: 0;
     list-style: none;
+}
+
+.grand-nav__item a {
+    text-decoration: none;
+    color: rgb(7, 68, 22);
 }
