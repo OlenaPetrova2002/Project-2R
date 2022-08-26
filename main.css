@@ -65,3 +65,11 @@ h1 > p {
     text-decoration: none;
     color: rgb(7, 68, 22);
 }
+
+.grand-nav__item a:hover {
+    color: rgb(137, 202, 228);
+}
+
+.grand-nav__item a:active {
+    color: blue;
+}
